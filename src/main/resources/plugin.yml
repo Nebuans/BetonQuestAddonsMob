@@ -1,0 +1,7 @@
+name: BetonQuestAddons
+version: '${project.version}'
+main: id.passeo.betonquestaddons.BetonQuestAddons
+api-version: 1.13
+depend: [ BetonQuest ]
+softdepend: [ MythicMobs ]
+authors: [ Passeo ]
